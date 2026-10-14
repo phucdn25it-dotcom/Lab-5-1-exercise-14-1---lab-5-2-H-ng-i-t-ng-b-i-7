@@ -103,6 +103,7 @@ include("../connect.php");
 <body>
 
 <div class="container">
+    <?php require __DIR__ . '/../view/menu.php'; ?>
 
     <h2 class="title">THÊM THỂ LOẠI</h2>
 
